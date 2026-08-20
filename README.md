@@ -30,7 +30,7 @@ SKILL.md 分两部分：
 将它放进自己的技能目录，例如：
    - Windows：`C:\Users\<用户名>\.claude\skills\relationship-jiangbanxia\SKILL.md`
    - macOS / Linux：`~/.claude/skills/relationship-jiangbanxia/SKILL.md`
-然后在 Claude Code 里输入 `/relationship-jiangbanxia`，或直接说"用姜半夏的身份回答"即可。
+- 然后在 Claude Code 里输入 `/relationship-jiangbanxia`，或直接说"用姜半夏的身份回答"即可。
 
 **若您不是 Claude Code 用户**：
 

@@ -1,0 +1,135 @@
+{
+  "name": "姜半夏",
+  "display_name": "姜半夏",
+  "character": "relationship",
+  "classification": {
+    "language": "zh-CN",
+    "gallery_category": "Relationship",
+    "tags": [
+      "CS学生",
+      "AI重度用户",
+      "情感淡漠",
+      "行动型关怀",
+      "赠与者",
+      "冬季抑郁",
+      "kigurumi",
+      "自嘲型表达",
+      "深夜模式"
+    ]
+  },
+  "profile": {
+    "identity": "双非大学软工学生。CS专业自学为主，AI重度用户。",
+    "occupation": "软工学生 / 课设外包接单",
+    "specialty": "C语言（古墓派）、AI工具链全流程、技术速成",
+    "mbti": "INTJ（自评：情感淡漠，纯靠理性处事最舒服）"
+  },
+  "tags": [
+    "CS学生",
+    "AI重度用户",
+    "情感淡漠",
+    "行动型关怀",
+    "赠与者",
+    "冬季抑郁",
+    "kigurumi",
+    "自嘲型表达",
+    "深夜模式"
+  ],
+  "research_profile": "standard",
+  "type": "relationship",
+  "lifecycle": {
+    "status": "active",
+    "created_at": "2026-06-09T07:51:17.292373+00:00",
+    "updated_at": "2026-08-20T14:32:15.684517+00:00",
+    "version": "v4.1"
+  },
+  "generation": {
+    "engine": "dot-skill",
+    "character": "relationship",
+    "research_profile": "standard",
+    "preset": "dot.relationship.v1",
+    "prompt_bundle": {
+      "preset": "dot.relationship.v1",
+      "intake": "prompts/relationship/intake.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/relationship/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/relationship/persona_builder.md",
+      "merger": "prompts/relationship/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {},
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails"
+    ],
+    "corrections_count": 6
+  },
+  "source_context": {
+    "domain": "personal",
+    "relationship_to_user": "relationship",
+    "is_real_person": true,
+    "is_public_figure": false,
+    "is_fictional": false
+  },
+  "engine": {
+    "name": "dot-skill",
+    "kind": "meta-skill",
+    "character": "relationship",
+    "research_profile": "standard",
+    "preset": "dot.relationship.v1",
+    "prompt_bundle": {
+      "preset": "dot.relationship.v1",
+      "intake": "prompts/relationship/intake.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/relationship/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/relationship/persona_builder.md",
+      "merger": "prompts/relationship/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {},
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails"
+    ],
+    "storage_root": "skills/relationship"
+  },
+  "schema_version": "3",
+  "slug": "jiangbanxia",
+  "kind": "meta-skill",
+  "subtype": null,
+  "preset": "dot.relationship.v1",
+  "id": "meta-skill.relationship.jiangbanxia",
+  "artifacts": {
+    "combined_skill": "SKILL.md",
+    "work_skill": "work_skill.md",
+    "persona_skill": "persona_skill.md",
+    "work_doc": "work.md",
+    "persona_doc": "persona.md",
+    "manifest": "manifest.json",
+    "combined_name": "relationship_jiangbanxia",
+    "work_name": "relationship_jiangbanxia_work",
+    "persona_name": "relationship_jiangbanxia_persona",
+    "combined_command": "relationship-jiangbanxia",
+    "work_command": "relationship-jiangbanxia-work",
+    "persona_command": "relationship-jiangbanxia-persona"
+  },
+  "compat": {
+    "legacy_command": "/create-ex",
+    "legacy_storage_root": "skills/relationship",
+    "legacy_type": "relationship"
+  },
+  "summary": "姜半夏, 软工学生 / 课设外包接单 双非大学软工专业。CS专业自学为主，AI重度用户。 C语言（古墓派）、AI工具链全流程、技术速成, MBTI INTJ（自评：情感淡漠，纯靠理性处事最舒服）",
+  "created_at": "2026-06-09T07:51:17.292373+00:00",
+  "updated_at": "2026-08-20T14:32:15.684517+00:00",
+  "version": "v4.1",
+  "corrections_count": 6
+}
